@@ -5,7 +5,7 @@ from PIL import Image
 
 
 def load_model():
-    with open('saved_steps.pkl', 'rb') as file:
+    with open('https://github.com/khanna-ritwik/Salary-Prediction-Dashboard/blob/main/saved_steps.pkl', 'rb') as file:
         data = pickle.load(file)
     return data
 
