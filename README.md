@@ -15,7 +15,7 @@ Country
 Predicted Salary
 
 ## **5. Live link**
-Link: 
+Link: https://khanna-ritwik-salary-prediction-dashboard-dashboard-6a02ys.streamlit.app/
 
 ## **6. Screenshots of the Interface**
 <img src="https://raw.githubusercontent.com/khanna-ritwik/Salary-Prediction-Dashboard/main/Images/image-1.png" width="35%" height="35%">
